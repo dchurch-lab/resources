@@ -8,11 +8,15 @@ Links to public resources, databases etc.
 * [Biostatistics Boot Camp 2 on Coursera](https://www.coursera.org/learn/biostatistics-2)
 
 ### programming
+
 * [Command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)  
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT course on useful things: command line, git etc.   
+* Introduction to Snakemake - [slides](http://slides.com/johanneskoester/deck-1#/2), [tutorial](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html), [tutorial2](https://slowkow.com/notes/snakemake-tutorial/), [understanding Snakemake](https://vincebuffalo.com/blog/2020/03/04/understanding-snakemake.html)  
+* [Interactive tutorials](https://www.codecademy.com/) - one needs an account, but should be free; many languages available  
+#### Python
 * Kasia's [Introduction to Python](https://github.com/NGSchoolEU/ngs19_python_intro) - can be even run directly from browser [here](https://colab.research.google.com/github/NGSchoolEU/ngs19_python_intro/blob/master/Intro%20to%20Python.ipynb)  
 * [Learn Python](https://www.learnpython.org/)
-* [Interactive tutorials](https://www.codecademy.com/)
+#### R
 * [Introduction to R](https://www.coursera.org/learn/r-programming) - more traditional tutorial
 * [Learn R in R](https://swirlstats.com/students.html) - tutorial within your own R!
 * Kasia's [Introduction to R](https://github.com/kzkedzierska/r_intro), as taught in Autumn 2019  
